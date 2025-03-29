@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv>
+    <channel id="AlJazeeraEnglish.qa">
+        <display-name>Al Jazeera English</display-name>
+    </channel>
+    <channel id="France24English.fr">
+        <display-name>France 24 English</display-name>
+    </channel>
+    <channel id="NDTV24x7.in">
+        <display-name>NDTV 24X7</display-name>
+    </channel>
+    <channel id="ABCAustralia.au">
+        <display-name>ABC Australia</display-name>
+    </channel>
+    <channel id="StoriesbyAMC.us">
+        <display-name>Stories by AMC</display-name>
+    </channel>
+    <channel id="SuperyachtTV.mc">
+        <display-name>Superyacht TV</display-name>
+    </channel>
+    <programme start="20250329080000 +0000" stop="20250329100000 +0000" channel="AlJazeeraEnglish.qa">
+        <title>Morning News</title>
+        <desc>Latest news updates from around the world.</desc>
+    </programme>
+    <programme start="20250329100000 +0000" stop="20250329120000 +0000" channel="France24English.fr">
+        <title>World Report</title>
+        <desc>International news and analysis.</desc>
+    </programme>
+    <programme start="20250329120000 +0000" stop="20250329140000 +0000" channel="NDTV24x7.in">
+        <title>India Today</title>
+        <desc>Breaking news and insights from India.</desc>
+    </programme>
+    <programme start="20250329140000 +0000" stop="20250329160000 +0000" channel="ABCAustralia.au">
+        <title>Australia Live</title>
+        <desc>Current affairs and live reports from Australia.</desc>
+    </programme>
+</tv>
